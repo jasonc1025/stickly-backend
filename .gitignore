@@ -1,2 +1,2 @@
-.env
+## [jwc] not ignore since wish to save these 'test' keys for convenience: .env
 node_modules
